@@ -183,3 +183,57 @@ footer {
 .pub-link a:hover {
   background: #193366;
 }
+body.dark-mode {
+  background: #16181e;
+  color: #e7e9ec;
+}
+body.dark-mode main {
+  background: #232433;
+  color: #e7e9ec;
+  box-shadow: 0 2px 16px 0 rgba(20,20,40,0.19);
+}
+body.dark-mode nav,
+body.dark-mode .navbar {
+  background: #232433;
+  border-bottom: 1.5px solid #232433;
+}
+body.dark-mode .nav-link {
+  color: #e1cfae;
+}
+body.dark-mode .nav-link.active,
+body.dark-mode .nav-link:hover {
+  color: #d5be8b;
+  border-bottom: 2px solid #d5be8b;
+}
+body.dark-mode h1, 
+body.dark-mode h2, 
+body.dark-mode h3 {
+  color: #d6cba4;
+}
+body.dark-mode .pub-link a {
+  background: #33344a;
+  color: #f9e4b7;
+}
+body.dark-mode .pub-link a:hover {
+  background: #22222a;
+}
+body.dark-mode .about-section blockquote {
+  background: #22222a;
+  color: #f5e7c8;
+  border-left: 4px solid #f5e7c8;
+}
+body.dark-mode .contact-email {
+  color: #e7c388;
+  border-bottom: 1.5px dotted #e7c388;
+}
+body.dark-mode .contact-email:hover {
+  color: #ffe3b0;
+  border-bottom: 1.5px solid #ffe3b0;
+}
+body.dark-mode .social-links img {
+  filter: grayscale(40%) brightness(0.92);
+  background: #232433;
+}
+body.dark-mode footer {
+  color: #cab88b;
+}
