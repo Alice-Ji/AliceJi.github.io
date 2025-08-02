@@ -13,13 +13,17 @@ title: Research
 
 <div style="display: flex; gap: 10px; margin-bottom: 30px;">
   <!-- Left column: citations, wider -->
-  <div style="flex: 3;">
+  <div style="flex: 4;">
     <p>
-      Liu, A. Y., **Ji, A.**, Taneja, H., & Nelson, M. R. (in press). Stakeholder-desired Audiences: Fans’ Audience Data Imaginaries and How They Shape Industry Data Practices. <em>Convergence</em>.<br>
-      Paltaratskaya, V., **Ji, A.**, Mazumdar, P., & Wise, K. (2025). Beyond Buzzwords: The Development of Large Language Models and Their Use in Advertising and Strategic Communication Research. <em>Journal of Current Issues & Research in Advertising</em>, 1–40. https://doi.org/10.1080/10641734.2025.2498996<br>
+      Liu, A. Y.,  <strong>Ji, A.</strong>, Taneja, H., & Nelson, M. R. (in press). Stakeholder-desired Audiences: Fans’ Audience Data Imaginaries and How They Shape Industry Data Practices. <em>Convergence</em>.<br>
+      <br>
+      Paltaratskaya, V.,  <strong>Ji, A.</strong>, Mazumdar, P., & Wise, K. (2025). Beyond Buzzwords: The Development of Large Language Models and Their Use in Advertising and Strategic Communication Research. <em>Journal of Current Issues & Research in Advertising</em>, 1–40. https://doi.org/10.1080/10641734.2025.2498996<br>
+      <br>
       Wise, K., Paltaratskaya, V., & Ji, A. (2026). Media choice. In <em>De Gruyter Handbook of Media Psychology</em>. Walter de Gruyter GmbH & Co KG.<br>
-      **Ji, A.**, Paltaratskaya, V., & Wise, K. (2025, June). The Effect of Message Fatigue on Visual Attention to, and Elaboration of Mental Health Infographics. Annual Conference of the International Communication Association (ICA 2025), Colorado, US.<br>
-      **Ji, A.**, Khowaja, L., Gilloly, K., Luo, H., Oshodi, N., Randolph, Z., Sun, R., Wang, C.-Y., Nelson, M. R. (2025, March). TikTok Made Me Buy It: Breaking Expectations with Shoppable Ads. American Academy of Advertising 2025 Annual Conference, Pennsylvania, US.<br> 
+      <br>
+      <strong>Ji, A.</strong>, Paltaratskaya, V., & Wise, K. (2025, June). The Effect of Message Fatigue on Visual Attention to, and Elaboration of Mental Health Infographics. Annual Conference of the International Communication Association (ICA 2025), Colorado, US.<br>
+      <br>
+      <strong>Ji, A.</strong>, Khowaja, L., Gilloly, K., Luo, H., Oshodi, N., Randolph, Z., Sun, R., Wang, C.-Y., Nelson, M. R. (2025, March). TikTok Made Me Buy It: Breaking Expectations with Shoppable Ads. American Academy of Advertising 2025 Annual Conference, Pennsylvania, US.<br> 
     </p>
   </div>
 
@@ -35,9 +39,9 @@ title: Research
 
 <div style="display: flex; gap: 10px; margin-bottom: 30px;">
   <!-- Left column: citations, wider -->
-  <div style="flex: 3;">
+  <div style="flex: 4;">
     <p>
-      Wise, K., Willis, E., **Ji, A.**, Paltaratskaya, V., Chung, M. (2024, November). Psychological Processing of Important Safety Information (ISI) in Social Media Pharmaceutical Advertising. NCA 110th Annual Convention, Louisiana, US.
+      Wise, K., Willis, E.,  <strong>Ji, A.</strong>, Paltaratskaya, V., Chung, M. (2024, November). Psychological Processing of Important Safety Information (ISI) in Social Media Pharmaceutical Advertising. NCA 110th Annual Convention, Louisiana, US.
     </p>
   </div>
 
