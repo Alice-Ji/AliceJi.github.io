@@ -21,6 +21,10 @@ While I study a wide range of topics—including parasocial relationships, AI-ge
 **Understanding How Digital Environments Mediate Persuasion, Authenticity, and Consumer Behavior.**
 
 ---
+<p style="margin-top: 30px; margin-bottom: 5px;">
+  <a href="mailto:rji3@illinois.edu" style="text-decoration: none; color: #0366d6;">rji3@illinois.edu</a>
+</p>
+
 <div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/alice-ji-8a4b2a161/" target="_blank">
     <img src="assets/LinkedIn.png" alt="LinkedIn" width="25" height="25">
