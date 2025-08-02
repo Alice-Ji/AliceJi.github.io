@@ -10,6 +10,12 @@ navigation:
     url: /cv
   - title: Research
     url: /research
+# Link to style.css
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "/assets/style.css"
 
 # Optional: social links
 google_analytics: false
