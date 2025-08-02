@@ -11,43 +11,77 @@ title: Research
 <!-- 2025 Section -->
 <h2 style="font-weight: bold; font-size: 1.8em; margin-top: 30px;">2025</h2>
 
+<!-- Entry — in press, no button -->
 <div style="display: flex; gap: 10px; margin-bottom: 30px;">
-  <!-- Left column: citations, wider -->
   <div style="flex: 4;">
     <p>
-      Liu, A. Y.,  <strong>Ji, A.</strong>, Taneja, H., & Nelson, M. R. (in press). Stakeholder-desired Audiences: Fans’ Audience Data Imaginaries and How They Shape Industry Data Practices. <em>Convergence</em>.<br>
-      <br>
-      Paltaratskaya, V.,  <strong>Ji, A.</strong>, Mazumdar, P., & Wise, K. (2025). Beyond Buzzwords: The Development of Large Language Models and Their Use in Advertising and Strategic Communication Research. <em>Journal of Current Issues & Research in Advertising</em>, 1–40. https://doi.org/10.1080/10641734.2025.2498996<br>
-      <br>
-      Wise, K., Paltaratskaya, V., & Ji, A. (2026). Media choice. In <em>De Gruyter Handbook of Media Psychology</em>. Walter de Gruyter GmbH & Co KG.<br>
-      <br>
-      <strong>Ji, A.</strong>, Paltaratskaya, V., & Wise, K. (2025, June). The Effect of Message Fatigue on Visual Attention to, and Elaboration of Mental Health Infographics. Annual Conference of the International Communication Association (ICA 2025), Colorado, US.<br>
-      <br>
-      <strong>Ji, A.</strong>, Khowaja, L., Gilloly, K., Luo, H., Oshodi, N., Randolph, Z., Sun, R., Wang, C.-Y., Nelson, M. R. (2025, March). TikTok Made Me Buy It: Breaking Expectations with Shoppable Ads. American Academy of Advertising 2025 Annual Conference, Pennsylvania, US.<br> 
+      Liu, A. Y., <strong>Ji, A.</strong>, Taneja, H., & Nelson, M. R. (in press). Stakeholder-desired Audiences: Fans’ Audience Data Imaginaries and How They Shape Industry Data Practices. <em>Convergence</em>.
     </p>
   </div>
+  <div style="flex: 1;"></div>
+</div>
 
-  <!-- Right column: buttons, slimmer -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-    <a href="/assets/paper1.pdf" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px;">View PDF</a>
-    <a href="/assets/presentation2025.pptx" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px;">Download Slides</a>
+<!-- Entry -->
+<div style="display: flex; gap: 10px; margin-bottom: 30px;">
+  <div style="flex: 4;">
+    <p>
+      Paltaratskaya, V., <strong>Ji, A.</strong>, Mazumdar, P., & Wise, K. (2025). Beyond Buzzwords: The Development of Large Language Models and Their Use in Advertising and Strategic Communication Research. <em>Journal of Current Issues & Research in Advertising</em>, 1–40. https://doi.org/10.1080/10641734.2025.2498996
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://www.tandfonline.com/doi/full/10.1080/10641734.2025.2498996" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px; display:block; width:100%;">Link</a>
   </div>
 </div>
+
+<!-- Entry -->
+<div style="display: flex; gap: 10px; margin-bottom: 30px;">
+  <div style="flex: 4;">
+    <p>
+      Wise, K., Paltaratskaya, V., & Ji, A. (2026). Media choice. In <em>De Gruyter Handbook of Media Psychology</em>. Walter de Gruyter GmbH & Co KG.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://www.degruyterbrill.com/document/isbn/9783111292144/html?lang=en&srsltid=AfmBOoqtsVdTHEIyAch5CITlxk2m5v_R4I-c60aFav39g9LMsfvGetKG" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px; display:block; width:100%;">Link</a>
+  </div>
+</div>
+
+<!-- Entry -->
+<div style="display: flex; gap: 10px; margin-bottom: 30px;">
+  <div style="flex: 4;">
+    <p>
+      <strong>Ji, A.</strong>, Paltaratskaya, V., & Wise, K. (2025, June). The Effect of Message Fatigue on Visual Attention to, and Elaboration of Mental Health Infographics. Annual Conference of the International Communication Association (ICA 2025), Colorado, US.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://drive.google.com/file/d/1w1f_8rztQdPX6iDoSP7jY95V_tljqdXb/view" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px; display:block; width:100%;">Slides</a>
+  </div>
+</div>
+
+<!-- Entry -->
+<div style="display: flex; gap: 10px; margin-bottom: 30px;">
+  <div style="flex: 4;">
+    <p>
+      <strong>Ji, A.</strong>, Khowaja, L., Gilloly, K., Luo, H., Oshodi, N., Randolph, Z., Sun, R., Wang, C.-Y., Nelson, M. R. (2025, March). TikTok Made Me Buy It: Breaking Expectations with Shoppable Ads. American Academy of Advertising 2025 Annual Conference, Pennsylvania, US.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://drive.google.com/file/d/1XBgRulzC5uFD-EU2bVoYARhA-n2bBWt-/view" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px; display:block; width:100%;">Slides</a>
+  </div>
+</div>
+
 
 <!-- 2024 Section -->
 <h2 style="font-weight: bold; font-size: 1.8em; margin-top: 30px;">2024</h2>
 
+<!-- Entry -->
 <div style="display: flex; gap: 10px; margin-bottom: 30px;">
-  <!-- Left column: citations, wider -->
   <div style="flex: 4;">
     <p>
-      Wise, K., Willis, E.,  <strong>Ji, A.</strong>, Paltaratskaya, V., Chung, M. (2024, November). Psychological Processing of Important Safety Information (ISI) in Social Media Pharmaceutical Advertising. NCA 110th Annual Convention, Louisiana, US.
+      Wise, K., Willis, E., <strong>Ji, A.</strong>, Paltaratskaya, V., Chung, M. (2024, November). Psychological Processing of Important Safety Information (ISI) in Social Media Pharmaceutical Advertising. NCA 110th Annual Convention, Louisiana, US.
     </p>
   </div>
-
-  <!-- Right column: buttons, slimmer -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-    <a href="https://drive.google.com/file/d/19pM9HZ3-aRbNrV5HGKHXGeonas5K18jK/view?usp=sharing" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px;">Download Slides</a>
+  <div style="flex: 1;">
+    <a href="https://drive.google.com/file/d/19pM9HZ3-aRbNrV5HGKHXGeonas5K18jK/view?usp=sharing" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px; display:block; width:100%;">Slides</a>
   </div>
 </div>
 
