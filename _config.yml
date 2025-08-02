@@ -1,0 +1,15 @@
+title: Alice Ji
+description: PhD Candidate in Media & Communication
+theme: jekyll-theme-minimal
+
+# This creates your top navbar
+navigation:
+  - title: About
+    url: /
+  - title: CV
+    url: /cv
+  - title: Research
+    url: /research
+
+# Optional: social links
+google_analytics: false
