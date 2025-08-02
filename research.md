@@ -37,7 +37,7 @@ title: Research
 <div style="display: flex; gap: 10px; margin-bottom: 30px;">
   <div style="flex: 4;">
     <p>
-      Wise, K., Paltaratskaya, V., & Ji, A. (2026). Media choice. In <em>De Gruyter Handbook of Media Psychology</em>. Walter de Gruyter GmbH & Co KG.
+      Wise, K., Paltaratskaya, V., & <strong>Ji, A.</strong> (2026). Media choice. In <em>De Gruyter Handbook of Media Psychology</em>. Walter de Gruyter GmbH & Co KG.
     </p>
   </div>
   <div style="flex: 1;">
