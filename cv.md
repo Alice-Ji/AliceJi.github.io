@@ -2,6 +2,22 @@
 layout: default
 title: CV
 ---
+<style>
+.site-header {
+  padding: 4px 0 !important;
+  font-size: 12px !important;
+  min-height: 0 !important;
+  border: none !important;
+}
+.site-title,
+.site-description {
+  font-size: 12px !important;
+  display: inline !important;
+  margin-right: 8px !important;
+  line-height: 1 !important;
+}
+</style>
+
 <nav style="padding: 10px 0; border-bottom: 1px solid #ddd; margin-bottom: 20px;">
   <a href="/" style="margin-right: 20px; text-decoration: none; color: #0366d6; font-weight: normal;">About</a>
   <a href="/cv" style="margin-right: 20px; text-decoration: none; color: #0366d6; font-weight: bold;">CV</a>
