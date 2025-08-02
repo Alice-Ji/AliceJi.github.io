@@ -1,0 +1,186 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #f7f8fa;
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  color: #21243d;
+  min-height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  background: #fff;
+  border-bottom: 1.5px solid #e5e8ee;
+  font-size: 1.12em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  padding: 18px 0 10px 0;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #2152c1;
+  border-bottom: 2px solid transparent;
+  transition: border 0.2s;
+  padding-bottom: 2px;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  border-bottom: 2px solid #2152c1;
+  color: #112244;
+}
+
+main {
+  max-width: 680px;
+  background: #fff;
+  margin: 48px auto 40px auto;
+  border-radius: 16px;
+  box-shadow: 0 2px 16px 0 rgba(30, 45, 70, 0.06);
+  padding: 48px 36px 40px 36px;
+  text-align: center;
+}
+
+.profile-img-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.profile-img {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  box-shadow: 0 2px 10px #dbeafe80;
+  object-fit: cover;
+}
+
+h1 {
+  margin: 10px 0 4px 0;
+  font-size: 2.2em;
+  font-weight: 700;
+  color: #1c2233;
+}
+
+h2 {
+  margin: 2px 0 24px 0;
+  font-size: 1.12em;
+  font-weight: 500;
+  color: #4b5563;
+  letter-spacing: 0.02em;
+}
+
+.about-section {
+  text-align: left;
+  margin: 0 auto 36px auto;
+}
+
+.about-section blockquote {
+  background: #f2f5fa;
+  border-left: 4px solid #2152c1;
+  margin: 22px 0 0 0;
+  padding: 16px 20px;
+  font-size: 1.1em;
+  font-style: italic;
+  color: #193366;
+  border-radius: 0 6px 6px 0;
+}
+
+.contact-section {
+  margin-top: 20px;
+}
+
+.contact-email {
+  display: inline-block;
+  font-size: 1.07em;
+  color: #2152c1;
+  text-decoration: none;
+  margin-bottom: 14px;
+  font-weight: 600;
+  border-bottom: 1.5px dotted #b2cdfa;
+  transition: color 0.2s;
+}
+.contact-email:hover {
+  color: #193366;
+  border-bottom: 1.5px solid #2152c1;
+}
+
+.social-links {
+  margin-top: 18px;
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+}
+.social-links img {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  transition: box-shadow 0.17s, filter 0.2s;
+  filter: grayscale(20%);
+  background: #f1f2fa;
+}
+.social-links img:hover {
+  filter: none;
+  box-shadow: 0 2px 8px #c7d1ee80;
+}
+
+footer {
+  text-align: center;
+  color: #9ca3af;
+  font-size: 0.98em;
+  margin: 40px 0 10px 0;
+  padding-top: 12px;
+}
+.pub-year {
+  margin-bottom: 40px;
+}
+.pub-year h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+  color: #2453aa;
+  margin: 28px 0 20px 0;
+  letter-spacing: 0.01em;
+  text-align: center;
+}
+.pub-entry {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  margin-bottom: 28px;
+  text-align: left;
+}
+.pub-citation {
+  flex: 4;
+  font-size: 1.08em;
+  color: #25253d;
+  line-height: 1.5;
+  text-align: left;
+}
+.pub-link {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+.pub-link a {
+  display: inline-block;
+  background: #2453aa;
+  color: #fff;
+  padding: 6px 16px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: center;
+  transition: background 0.2s;
+  width: 100%;
+  min-width: 70px;
+}
+.pub-link a:hover {
+  background: #193366;
+}
