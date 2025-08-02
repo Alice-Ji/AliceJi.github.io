@@ -2,14 +2,6 @@ title: Alice Ji
 description: PhD Student in Media & Communication  
 theme: jekyll-theme-minimal
 
-# This creates your top navbar.
-navigation:
-  - title: About
-    url: /
-  - title: CV
-    url: /cv
-  - title: Research
-    url: /research
 # Link to style.css
 defaults:
   - scope:
