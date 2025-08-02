@@ -1,16 +1,39 @@
-/* Override sidebar width */
-.sidebar {
-  width: 200px !important;
-  padding: 20px;
-  font-size: 14px;
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 32px;
+  background: #fff;
+  border-bottom: 1px solid #ececec;
+  font-size: 16px;
 }
 
-/* Make content area take more space */
-.wrapper {
-  margin-left: 220px !important;
+.site-title {
+  font-size: 22px;
+  margin-right: 18px;
+  font-weight: 700;
+  display: inline-block;
 }
 
-/* Optional: tweak text or link style */
-.sidebar a {
-  font-size: 13px;
+.site-description {
+  margin-right: 30px;
+  font-size: 15px;
+  color: #555;
+  display: inline-block;
+}
+
+.nav {
+  margin-left: auto;
+}
+
+.nav a {
+  margin-left: 18px;
+  color: #26547c;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.nav a:hover {
+  text-decoration: underline;
 }
