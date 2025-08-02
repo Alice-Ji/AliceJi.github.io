@@ -169,7 +169,7 @@ footer {
   text-align: left;
 }
 .pub-citation {
-  flex: 4;
+  flex: 10;
   font-size: 1.08em;
   color: #25253d;
   line-height: 1.5;
@@ -191,7 +191,7 @@ footer {
   text-align: center;
   transition: background 0.2s;
   width: 100%;
-  min-width: 70px;
+  min-width: 40px;
 }
 .pub-link a:hover {
   background: #193366;
