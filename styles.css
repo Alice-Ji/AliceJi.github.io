@@ -9,6 +9,10 @@ body {
   min-height: 100vh;
 }
 
+button, input, select, textarea {
+  font-family: 'EB Garamond', Garamond, 'Times New Roman', Times, serif;
+}
+
 .navbar {
   display: flex;
   justify-content: center;
