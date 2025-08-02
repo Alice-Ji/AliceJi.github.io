@@ -15,7 +15,7 @@ My work is methodologically diverse, incorporating eye-tracking, experimental de
 
 While I study a wide range of topics—including parasocial relationships, AI-generated content, misinformation correction, and the influence of LLM conversational agents like GPT models—my research is united by a central theme: 
 
-Understanding How Digital Environments Mediate Persuasion, Authenticity, and Consumer Behavior.
+**Understanding How Digital Environments Mediate Persuasion, Authenticity, and Consumer Behavior.**
 
 ---
 
