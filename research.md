@@ -15,8 +15,11 @@ title: Research
   <!-- Left column: citations, wider -->
   <div style="flex: 3;">
     <p>
-      Smith, J., & Ji, A. (2025). Title of Paper 1. <em>Journal of Awesome Research</em>. <br>
-      Jones, K., Ji, A., & Lee, M. (2025). Title of Conference Presentation. <em>International Conf. on Media Psychology</em>.
+      Liu, A. Y., **Ji, A.**, Taneja, H., & Nelson, M. R. (in press). Stakeholder-desired Audiences: Fans’ Audience Data Imaginaries and How They Shape Industry Data Practices. <em>Convergence</em>.<br>
+      Paltaratskaya, V., **Ji, A.**, Mazumdar, P., & Wise, K. (2025). Beyond Buzzwords: The Development of Large Language Models and Their Use in Advertising and Strategic Communication Research. <em>Journal of Current Issues & Research in Advertising</em>, 1–40. https://doi.org/10.1080/10641734.2025.2498996<br>
+      Wise, K., Paltaratskaya, V., & Ji, A. (2026). Media choice. In <em>De Gruyter Handbook of Media Psychology</em>. Walter de Gruyter GmbH & Co KG.<br>
+      **Ji, A.**, Paltaratskaya, V., & Wise, K. (2025, June). The Effect of Message Fatigue on Visual Attention to, and Elaboration of Mental Health Infographics. Annual Conference of the International Communication Association (ICA 2025), Colorado, US.<br>
+      **Ji, A.**, Khowaja, L., Gilloly, K., Luo, H., Oshodi, N., Randolph, Z., Sun, R., Wang, C.-Y., Nelson, M. R. (2025, March). TikTok Made Me Buy It: Breaking Expectations with Shoppable Ads. American Academy of Advertising 2025 Annual Conference, Pennsylvania, US.<br> 
     </p>
   </div>
 
@@ -34,15 +37,13 @@ title: Research
   <!-- Left column: citations, wider -->
   <div style="flex: 3;">
     <p>
-      Ji, A., & Chen, L. (2024). Another important paper. <em>Journal of Media Studies</em>. <br>
-      Wang, P., & Ji, A. (2024). Presentation title here. <em>Annual Comm Conference</em>.
+      Wise, K., Willis, E., **Ji, A.**, Paltaratskaya, V., Chung, M. (2024, November). Psychological Processing of Important Safety Information (ISI) in Social Media Pharmaceutical Advertising. NCA 110th Annual Convention, Louisiana, US.
     </p>
   </div>
 
   <!-- Right column: buttons, slimmer -->
   <div style="flex: 1; display: flex; flex-direction: column; gap: 10px;">
-    <a href="/assets/paper2024.pdf" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px;">View PDF</a>
-    <a href="/assets/presentation2024.pptx" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px;">Download Slides</a>
+    <a href="https://drive.google.com/file/d/19pM9HZ3-aRbNrV5HGKHXGeonas5K18jK/view?usp=sharing" target="_blank" style="padding: 6px 10px; background:#0366d6; color:#fff; text-align:center; text-decoration:none; border-radius:4px;">Download Slides</a>
   </div>
 </div>
 
