@@ -237,3 +237,7 @@ body.dark-mode .social-links img {
 body.dark-mode footer {
   color: #cab88b;
 }
+body.dark-mode .pub-citation {
+  color: #e7e9ec;
+}
+
