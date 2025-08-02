@@ -24,10 +24,16 @@ While I study a wide range of topics—including parasocial relationships, AI-ge
 
 ---
 
-### 📫 Contact Me
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.linkedin.com/in/alice-ji-8a4b2a161/" target="_blank">
+    <img src="assets/LinkedIn.png" alt="LinkedIn" width="35" height="35">
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=CVlgqCAAAAAJ" target="_blank">
+    <img src="assets/GoogleScholarLogo.png" alt="Google Scholar" width="35" height="35">
+  </a>
+  <a href="https://orcid.org/0009-0009-3730-8272" target="_blank">
+    <img src="assets/ORCID.png" alt="ORCID" width="35" height="35">
+  </a>
+</div>
 
-You can find me here:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alice-ji-8a4b2a161/)  
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CVlgqCAAAAAJ)  
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3730-8272)
 
