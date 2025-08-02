@@ -4,13 +4,16 @@ body {
   margin: 0;
   padding: 0;
   background: #f7f8fa;
-  font-family: 'EB Garamond', Garamond, 'Times New Roman', Times, serif;
+  font-family: "EB Garamond", Garamond, "Times New Roman", Times, serif;
   color: #21243d;
   min-height: 100vh;
 }
 
-button, input, select, textarea {
-  font-family: 'EB Garamond', Garamond, 'Times New Roman', Times, serif;
+button,
+input,
+select,
+textarea {
+  font-family: "EB Garamond", Garamond, "Times New Roman", Times, serif;
 }
 
 .navbar {
@@ -41,7 +44,7 @@ button, input, select, textarea {
 }
 
 main {
-  max-width: 680px;
+  max-width: 900px;
   background: #fff;
   margin: 48px auto 40px auto;
   border-radius: 16px;
@@ -85,13 +88,19 @@ h2 {
   margin: 0 auto 36px auto;
 }
 
+.about-section p {
+  font-size: 1.2em; /* or any size you prefer */
+  line-height: 1.5; /* improves readability */
+}
+
 .about-section blockquote {
   background: #f2f5fa;
   border-left: 4px solid #2152c1;
+  text-align: center;
   margin: 22px 0 0 0;
   padding: 16px 20px;
   font-size: 1.1em;
-  font-style: italic;
+  font-style: normal;
   color: #193366;
   border-radius: 0 6px 6px 0;
 }
@@ -226,7 +235,7 @@ body.dark-mode {
 body.dark-mode main {
   background: #232433;
   color: #e7e9ec;
-  box-shadow: 0 2px 16px 0 rgba(20,20,40,0.19);
+  box-shadow: 0 2px 16px 0 rgba(20, 20, 40, 0.19);
 }
 body.dark-mode nav,
 body.dark-mode .navbar {
@@ -241,8 +250,8 @@ body.dark-mode .nav-link:hover {
   color: #d5be8b;
   border-bottom: 2px solid #d5be8b;
 }
-body.dark-mode h1, 
-body.dark-mode h2, 
+body.dark-mode h1,
+body.dark-mode h2,
 body.dark-mode h3 {
   color: #d6cba4;
 }
@@ -276,4 +285,3 @@ body.dark-mode footer {
 body.dark-mode .pub-citation {
   color: #e7e9ec;
 }
-
