@@ -9,11 +9,12 @@ title: CV
 </nav>
 
 <iframe 
-  src="https://drive.google.com/file/d/1oSYTsXrv-TkhhUc-3byKyhADt55f2kVb/view?usp=sharing" 
+  src="https://drive.google.com/file/d/1oSYTsXrv-TkhhUc-3byKyhADt55f2kVb/preview" 
   width="100%" 
   height="800" 
   allow="autoplay">
 </iframe>
+<p><a href="https://drive.google.com/uc?export=download&id=1oSYTsXrv-TkhhUc-3byKyhADt55f2kVb" target="_blank" rel="noopener">Download CV (PDF)</a></p>
 
 ---
 <p style="margin-top: 15px; margin-bottom: 5px;">
