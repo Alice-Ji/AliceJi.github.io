@@ -14,6 +14,8 @@
       <a href="/research.html" class="nav-link">Research</a>
     </nav>
 
+    <button id="dark-toggle" style="position:fixed;top:16px;right:18px;z-index:99;padding:7px 18px;border-radius:6px;border:none;background:#ececec;color:#222;cursor:pointer;font-size:0.98em;box-shadow:0 2px 10px #eee;transition:all 0.18s;">🌒 Dark Mode</button>
+
     <main>
       <h1>Curriculum Vitae</h1>
 
@@ -81,5 +83,13 @@
     </main>
 
     <footer>&copy; 2025 Alice Ji</footer>
+    <script>
+  const btn = document.getElementById('dark-toggle');
+  btn.onclick = () => {
+    document.body.classList.toggle('dark-mode');
+    btn.textContent = document.body.classList.contains('dark-mode') ? '☀️ Light Mode' : '🌒 Dark Mode';
+  }
+</script>
+
   </body>
 </html>
