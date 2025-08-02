@@ -8,6 +8,13 @@ title: CV
   <a href="/research" style="text-decoration: none; color: #0366d6; font-weight: bold;">Research</a>
 </nav>
 
+<iframe 
+  src="https://drive.google.com/file/d/1oSYTsXrv-TkhhUc-3byKyhADt55f2kVb/view?usp=sharing" 
+  width="100%" 
+  height="800" 
+  allow="autoplay">
+</iframe>
+
 ---
 <p style="margin-top: 15px; margin-bottom: 5px;">
   <a href="mailto:rji3@illinois.edu" style="text-decoration: none; color: #0366d6;" onmouseover="this.style.color='#0366d6'; this.style.textDecoration='none';" onmouseout="this.style.color='#0366d6'; this.style.textDecoration='none';">rji3@illinois.edu</a>
