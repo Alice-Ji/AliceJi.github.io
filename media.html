@@ -18,6 +18,8 @@
         border-radius: 16px;
         overflow: hidden;
         box-shadow: 0 2px 20px rgba(30, 45, 70, 0.3);
+        background-color: black;
+        height: 480px; /* fixed height for letterboxing */
       }
 
       /* Images */
@@ -27,6 +29,8 @@
         object-fit: contain;
         border-radius: 16px;
         max-height: 480px;
+        user-select: none;
+        pointer-events: none;
       }
 
       .carousel img.active {
@@ -45,6 +49,8 @@
         font-family: "EB Garamond", serif;
         border-radius: 0 0 16px 16px;
         user-select: none;
+        pointer-events: none;
+        text-align: center;
       }
 
       /* Navigation buttons */
@@ -79,6 +85,7 @@
       @media (max-width: 650px) {
         .carousel {
           max-height: 300px;
+          height: 300px;
         }
         .carousel img.active {
           max-height: 300px;
@@ -107,7 +114,6 @@
       <h1>Conference & Media Highlights</h1>
 
       <div class="carousel" aria-label="Conference photos carousel">
-
         <img
           src="https://alice-ji.github.io/assets/202503AAA0.jpg"
           alt="Practicing Conference Talk at Departmental Research Symposium"
@@ -115,15 +121,13 @@
         <div class="caption">
           Practicing Conference Talk at Departmental Research Symposium
         </div>
-        
+
         <img
           src="https://alice-ji.github.io/assets/202411NCA1.jpeg"
           alt="2024 National Communication Association Annual Convention, Louisiana LA"
-          class="active"
         />
         <div class="caption">
-          2024 National Communication Association Annual Convention, Louisiana
-          LA
+          2024 National Communication Association Annual Convention, Louisiana LA
         </div>
 
         <img
@@ -131,8 +135,7 @@
           alt="2024 National Communication Association Annual Convention, Louisiana LA"
         />
         <div class="caption">
-          2024 National Communication Association Annual Convention, Louisiana
-          LA
+          2024 National Communication Association Annual Convention, Louisiana LA
         </div>
 
         <img
@@ -157,7 +160,7 @@
         />
         <div class="caption">
           Undergraduate Research Apprenticeship Program: Mentee presenting at
-          Undergraduate Research Symposium, <br>
+          Undergraduate Research Symposium,<br />
           University of Illinois at Urbana-Champaign
         </div>
 
@@ -166,8 +169,7 @@
           alt="2025 International Communication Association Annual Convention, Denver CO"
         />
         <div class="caption">
-          2025 International Communication Association Annual Convention, Denver
-          CO
+          2025 International Communication Association Annual Convention, Denver CO
         </div>
 
         <img
@@ -175,8 +177,7 @@
           alt="2025 International Communication Association Annual Convention, Denver CO"
         />
         <div class="caption">
-          2025 International Communication Association Annual Convention, Denver
-          CO
+          2025 International Communication Association Annual Convention, Denver CO
         </div>
 
         <div class="carousel-controls">
@@ -216,7 +217,6 @@
           img.classList.toggle("active", i === current);
         });
 
-        // Captions are the divs after each image, so toggle them as well
         captions.forEach((caption, i) => {
           caption.style.display = i === current ? "block" : "none";
         });
@@ -230,10 +230,9 @@
         showSlide(current + 1);
       });
 
-      // Initialize caption visibility
-      captions.forEach((caption, i) => {
-        caption.style.display = i === 0 ? "block" : "none";
-      });
+      // Initialize the carousel display
+      showSlide(0);
+
       const btn = document.getElementById("dark-toggle");
       // On load, restore state
       if (localStorage.getItem("dark-mode") === "true") {
