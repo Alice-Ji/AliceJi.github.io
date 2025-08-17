@@ -83,6 +83,13 @@ h2 {
   letter-spacing: 0.02em;
 }
 
+h3 {
+  margin: 10px 0 4px 0;
+  font-size: 1.6em;
+  font-weight: 500;
+  color: #2453aa;
+}
+
 .about-section {
   text-align: left;
   margin: 0 auto 36px auto;
