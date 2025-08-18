@@ -12,10 +12,10 @@
     <style>
       .project-grid {
         display: grid;
-        grid-template-columns: 2fr 1fr;
+        grid-template-columns: 1fr 1fr;
         gap: 2rem;
         margin-bottom: 3rem;
-        align-items: start;
+        align-items: center;
       }
       .project-grid img,
       .project-grid iframe {
@@ -66,7 +66,7 @@
   <body>
     <nav class="navbar">
       <a href="/" class="nav-link">About</a>
-      <a href="/cv.html" class="nav-link">CV & Resume</a>
+      <a href="/cv.html" class="nav-link">CV/Resume</a>
       <a href="/research.html" class="nav-link">Research</a>
       <a href="/project.html" class="nav-link active">Projects</a>
       <a href="/media.html" class="nav-link">Media</a>
@@ -89,11 +89,26 @@
         <div class="project-desc">
           <h3>Social Media Affordance Study</h3>
           <p>
-            Custom-built fake Instagram feed to test how enabling/disabling the
-            comment function affects <b>parasocial relationships</b> and
-            <b>user engagement</b>. Participants’ interactions and comments were
-            logged and analyzed (length, frequency, sentiment).
+            <b>Problem:</b> Platforms like Instagram shape user–creator
+            relationships through affordances (e.g., comments), but it’s unclear
+            how disabling them changes parasocial interaction and purchase
+            intention of sponsored product. <br /><br />
+
+            <b>Solution:</b> Built a fully functional fake Instagram prototype
+            in <b>HTML/JS</b> where I could toggle comments on/off. Participants
+            scrolled and liked in a naturalistic environment with sponsored
+            posts. <br /><br />
+
+            <b>Methods:</b> Logged user actions (<i
+              >comment length, frequency, sentiment</i
+            >) and paired with survey data. <br /><br />
+
+            <b>Impact:</b> Found that parasocial relationships only predicted
+            purchase intention in the <b>comment-enabled</b> condition — when
+            comments were disabled, PSR no longer translated into consumer
+            action. Currently under conference peer review.
           </p>
+
           <div class="pub-link">
             <a
               href="https://github.com/Alice-Ji/affordancePSIPSR"
@@ -115,12 +130,31 @@
         <div class="project-desc">
           <h3>Shoppable Advertising Study</h3>
           <p>
-            Interactive <b>streaming TV</b> and <b>social media</b> ad
-            prototypes built in HTML/JS. Compared shoppable vs. non-shoppable ad
-            formats using <b>interaction logs and surveys</b> to capture
-            attention and purchase intent across lean-forward vs. lean-back
-            contexts.
+            <b>Problem:</b> Brands are increasingly experimenting with
+            <b>shoppable ad formats</b>, but it’s unclear whether consumers
+            perceive them as engaging enhancements or intrusive disruptions —
+            and whether platform context (social vs. streaming) changes their
+            effectiveness. <br /><br />
+
+            <b>Solution:</b> Built interactive <b>streaming TV</b> and
+            <b>social media</b> ad prototypes in <b>HTML/JS</b>, enabling
+            side-by-side comparison of shoppable vs. non-shoppable experiences.
+            <br /><br />
+
+            <b>Methods:</b> Captured <i>interaction logs</i> (clicks, overlay
+            opens) and paired with <i>survey measures</i> of attention,
+            attitudes, and purchase intent. Included open-ended responses on
+            perceived intrusiveness. <br /><br />
+
+            <b>Impact:</b> Shoppable ads were rated as more
+            <b>surprising and intrusive</b>, with lower purchase intent on
+            <b>social media</b>. In contrast, on <b>streaming TV</b>, shoppable
+            formats boosted purchase intent by creating a lean-forward commerce
+            moment. Results highlight the importance of <b>platform-fit</b> when
+            deploying interactive ad formats. Currently under journal peer
+            review.
           </p>
+
           <div class="pub-link">
             <a href="https://github.com/Alice-Ji/TVShoppable" target="_blank"
               >View TV version on GitHub</a
@@ -131,9 +165,6 @@
               >View Social Media version on GitHub</a
             >
           </div>
-          <p>
-            <i>Manuscript under review at Journal of Advertising Research</i>
-          </p>
         </div>
       </section>
 
@@ -148,11 +179,31 @@
         <div class="project-desc">
           <h3>Gacha Behavioral Economies</h3>
           <p>
-            Fully functional <b>gacha battle game</b> coded in HTML/JS,
-            including summon and battle mechanics. Player behavior and spending
-            patterns were tracked via Apps Script to analyze how
-            <b>randomized rewards</b> shape engagement and progression.
+            <b>Problem:</b> Mobile games rely heavily on
+            <b>gacha mechanics</b> to drive engagement and monetization, but
+            it’s unclear how design choices (e.g., pull odds, banner framing,
+            bonus gems) shape player spending and progression. <br /><br />
+
+            <b>Solution:</b> Built a fully functional
+            <b>gacha battle game</b> in <b>HTML/JS</b> with summon, battle, and
+            progression systems. The platform allows controlled manipulation of
+            <i
+              >summon odds, banner design, animations, endowment bonuses,
+              purchase pricing, and rarity effects</i
+            >. <br /><br />
+
+            <b>Methods:</b> Player behavior and spending patterns are logged via
+            <b>Apps Script</b>, enabling experiments on how randomized rewards,
+            completion bias, and perceived value drive engagement. <br /><br />
+
+            <b>Impact:</b> Provides a testbed for research questions in
+            <b>behavioral economics</b> and <b>game UX</b> — e.g., how framing
+            pull odds as advertising affects trust, or how bonus payments and
+            rarity design shift purchase intention. Prototype demonstrates how
+            gaming mechanics can reveal broader consumer decision-making
+            patterns.
           </p>
+
           <div class="pub-link">
             <a href="https://github.com/Alice-Ji/Gacha" target="_blank"
               >View on GitHub</a
